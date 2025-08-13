@@ -19,7 +19,7 @@ This project implements a book recommendation system using a collaborative filte
 ## How to Run Locally
 
 1.  **Clone the repository**
-    git clone [https://github.com/your-username/book-recommendation-system.git](https://www.google.com/search?q=https://github.com/your-username/book-recommendation-system.git)
+    git clone [https://github.com/Maddi-Jagadeesh/book-recommendation-system.git]
     cd book-recommendation-system
 2.  **Install the dependencies**
     pip install numpy pandas scikit-learn
